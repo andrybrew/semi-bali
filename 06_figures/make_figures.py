@@ -6,7 +6,7 @@ Inputs : ../01_data/bali_adm1_geoboundaries.geojson  (geoBoundaries gbOpen IDN A
          ../01_data/destination_coordinates.csv
          ../04_network/edges/edges_<YYYYQn>.csv, ../04_network/node_metrics_quarterly.csv
          ../05_semi/table3_semi.csv
-Outputs: fig1_workflow.png, fig2_edgelist.png, fig3a_2019.png, fig3b_2020.png,
+Outputs: fig1_workflow.png, fig3a_2019.png, fig3b_2020.png,
          figS1_2021.png ... figS4_2024.png, fig4_semi.png  (300 dpi)
 """
 import os, json
@@ -14,7 +14,7 @@ import numpy as np, pandas as pd
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-from matplotlib.patches import FancyBboxPatch, Polygon
+from matplotlib.patches import Polygon
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 P = lambda *a: os.path.join(HERE, "..", *a)
@@ -22,60 +22,60 @@ plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 9})
 DPI = 300
 COL = ["#2b6cb0", "#dd6b20", "#2f855a", "#9b2c2c", "#6b46c1"]
 
-# ---------------------------------------------------------------- Fig. 1 workflow
-def box(ax, x, y, w, h, text, fc="#ffffff", bold=False):
-    ax.add_patch(FancyBboxPatch((x - w / 2, y - h / 2), w, h, boxstyle="round,pad=0.01,rounding_size=0.015",
-                                fc=fc, ec="#333333", lw=0.8))
-    ax.text(x, y, text, ha="center", va="center", fontsize=7.6, weight="bold" if bold else "normal", wrap=True)
+# ---------------------------------------------------------------- Fig. 1: drawn at print size
+# The figure is drawn at print size (at most 6.3 in, 16 cm, wide) and must be inserted at
+# their native size (pixels / 300 dpi), so that 11 pt text matches the 11 pt body text.
+SERIF = {"family": "Liberation Serif", "size": 11}
+WIDTH = 6.3
 
-def arrow(ax, x0, y0, x1, y1):
-    ax.annotate("", xy=(x1, y1), xytext=(x0, y0), arrowprops=dict(arrowstyle="-|>", lw=0.8, color="#333333"))
+def rbox(ax, x, y, w, h, text, bold=False):
+    """box centred at (x, y) in inches"""
+    ax.add_patch(plt.Rectangle((x - w / 2, y - h / 2), w, h, fill=False, ec="black", lw=0.8))
+    ax.text(x, y, text, ha="center", va="center", fontdict=SERIF, weight="bold" if bold else "normal",
+            linespacing=1.15)
 
-fig, ax = plt.subplots(figsize=(7.2, 8.2)); ax.set_xlim(0, 1); ax.set_ylim(0, 1); ax.axis("off")
-W, H = 0.46, 0.075
-L, R, C = 0.245, 0.755, 0.5
-box(ax, C, 0.95, 0.62, 0.06, "Google Maps reviews of 33 Bali destinations (Apify)", "#edf2f7", True)
-box(ax, L, 0.84, W, H, "Network extraction\n180,664 unique reviewer–destination records")
-box(ax, R, 0.84, W, H, "Text extraction\n82,035 unique text-bearing reviews")
-box(ax, L, 0.72, W, H, "Pseudonymised reviewers;\nreviewer co-occurrence per quarter")
-box(ax, R, 0.72, W, H, "Human annotation: 582 reviews,\ntwo annotators + adjudicator")
-box(ax, L, 0.60, W, H, "24 quarterly co-visitation\nnetworks, 2019–2024")
-box(ax, R, 0.60, W, H, "TF-IDF, BERT, RoBERTa\n5-fold CV; RoBERTa selected")
-box(ax, L, 0.48, W, H, "Density, clustering, Louvain\nmodularity, ARI  (RQ1)", "#fefcbf")
-box(ax, R, 0.48, W, H, "Review-level labels, 5 experience\ncategories + Uncategorized")
-box(ax, L, 0.36, W, H, "Structural embeddedness S\n(other destinations per reviewer, 2024)", "#ebf8ff")
-box(ax, R, 0.36, W, H, "Experiential distinctiveness HV\n(% Cultural Immersion + Adventure)", "#ebf8ff")
-box(ax, C, 0.23, 0.62, H, "SEMI = z(HV) − z(S) and four-quadrant typology\nassociation of S and HV  (RQ2)", "#fefcbf", True)
-box(ax, C, 0.10, 0.62, H, "1,000 bootstrap draws and alternative specifications\n(time windows, HV definition, weights, threshold)  (RQ3)", "#fefcbf")
-for x in (L, R):
-    arrow(ax, x, 0.95 - 0.03 if False else 0.92, x, 0.84 + H / 2)
-    for y0, y1 in ((0.84, 0.72), (0.72, 0.60), (0.60, 0.48), (0.48, 0.36)):
-        arrow(ax, x, y0 - H / 2, x, y1 + H / 2)
-    arrow(ax, x, 0.36 - H / 2, C + (x - C) * 0.5, 0.23 + H / 2)
-arrow(ax, C, 0.23 - H / 2, C, 0.10 + H / 2)
-fig.savefig(os.path.join(HERE, "fig1_workflow.png"), dpi=DPI, bbox_inches="tight", facecolor="white"); plt.close(fig)
+def arr(ax, x0, y0, x1, y1):
+    ax.annotate("", xy=(x1, y1), xytext=(x0, y0),
+                arrowprops=dict(arrowstyle="-|>", lw=0.8, color="black", mutation_scale=10, shrinkA=0, shrinkB=0))
 
-# ---------------------------------------------------------------- Fig. 2 edge-list construction
-fig, axs = plt.subplots(1, 3, figsize=(7.4, 2.6), gridspec_kw={"width_ratios": [1.25, 0.8, 1]})
-for a in axs: a.axis("off")
-rows = [("Reviewer 1", "A, B, C"), ("Reviewer 2", "B, D"), ("Reviewer 3", "A")]
-axs[0].set_title("(1) Reviews posted in one quarter", fontsize=8.5, loc="left")
-axs[0].table(cellText=rows, colLabels=["Pseudonymised reviewer", "Destinations reviewed"], loc="center",
-             cellLoc="center", colWidths=[0.55, 0.45])
-t0 = axs[0].tables[0]; t0.auto_set_font_size(False); t0.set_fontsize(7.5); t0.scale(1, 1.6)
-axs[1].set_title("(2) Destination pairs", fontsize=8.5, loc="left")
-axs[1].table(cellText=[("A", "B"), ("A", "C"), ("B", "C"), ("B", "D")], colLabels=["Source", "Target"],
-             loc="center", cellLoc="center")
-t1 = axs[1].tables[0]; t1.auto_set_font_size(False); t1.set_fontsize(7.5); t1.scale(1, 1.6)
-axs[2].set_title("(3) Unweighted co-visitation network", fontsize=8.5, loc="left")
-pos = {"A": (0.2, 0.75), "B": (0.55, 0.45), "C": (0.2, 0.2), "D": (0.9, 0.6)}
-for u, v in [("A", "B"), ("A", "C"), ("B", "C"), ("B", "D")]:
-    axs[2].plot(*zip(pos[u], pos[v]), color="#666666", lw=1.2, zorder=1)
-for n, (x, y) in pos.items():
-    axs[2].scatter(x, y, s=420, color="#2b6cb0", zorder=2); axs[2].text(x, y, n, color="white", ha="center", va="center", weight="bold")
-axs[2].set_xlim(0, 1.05); axs[2].set_ylim(0, 1)
-axs[2].text(0.02, -0.08, "Reviewer 3 reviewed one study destination and adds no edge.", fontsize=7, transform=axs[2].transAxes)
-fig.savefig(os.path.join(HERE, "fig2_edgelist.png"), dpi=DPI, bbox_inches="tight", facecolor="white"); plt.close(fig)
+def canvas(h):
+    fig = plt.figure(figsize=(WIDTH, h))
+    ax = fig.add_axes([0, 0, 1, 1]); ax.set_xlim(0, WIDTH); ax.set_ylim(0, h); ax.axis("off")
+    return fig, ax
+
+# Fig. 1 workflow
+H1 = 6.6
+fig, ax = canvas(H1)
+cw, gap = 2.95, 0.2
+xl, xr, xc = 0.1 + cw / 2, WIDTH - 0.1 - cw / 2, WIDTH / 2
+bh = 0.78
+rbox(ax, xc, 6.2, WIDTH - 0.2, 0.5, "Google Maps reviews of 33 destinations in Bali (Apify)")
+ax.text(xl, 5.62, "Structural signal", ha="center", va="center", fontdict=SERIF, style="italic")
+ax.text(xr, 5.62, "Experiential signal", ha="center", va="center", fontdict=SERIF, style="italic")
+rows = [4.95, 3.85, 2.75]
+left = ["Network extraction:\n180,664 reviewer–destination records",
+        "24 quarterly co-visitation networks,\n2019–2024; density, modularity,\ncommunity stability (RQ1)",
+        "Structural embeddedness S:\nother study destinations\nper reviewer, 2024"]
+right = ["Text extraction:\n82,035 reviews with text",
+         "RoBERTa classifier trained on\n582 human-annotated reviews\n(five-fold cross-validation)",
+         "Experiential distinctiveness HV:\n% Cultural Immersion +\nAdventure & Exploration"]
+for y, tl, tr in zip(rows, left, right):
+    rbox(ax, xl, y, cw, bh, tl); rbox(ax, xr, y, cw, bh, tr)
+for x in (xl, xr):
+    ax.plot([x, x], [6.2 - 0.25, 5.76], color="black", lw=0.8)
+    arr(ax, x, 5.48, x, rows[0] + bh / 2)
+    for y0, y1 in zip(rows, rows[1:]):
+        arr(ax, x, y0 - bh / 2, x, y1 + bh / 2)
+yS, yB = 1.55, 0.45
+rbox(ax, xc, yS, WIDTH - 0.2, 0.62, "SEMI = z(HV) − z(S) and four-quadrant typology;\nassociation between S and HV (RQ2)")
+rbox(ax, xc, yB, WIDTH - 0.2, 0.62, "Bootstrap intervals and alternative specifications:\ntime windows, definition of HV, weights, threshold (RQ3)")
+for x in (xl, xr):
+    arr(ax, x, rows[-1] - bh / 2, x, yS + 0.31)
+arr(ax, xc, yS - 0.31, xc, yB + 0.31)
+fig.savefig(os.path.join(HERE, "fig1_workflow.png"), dpi=DPI, facecolor="white", bbox_inches="tight", pad_inches=0.03); plt.close(fig)
+
+# Fig. 2 (edge-list construction from a Google Maps screenshot) is a manually prepared
+# illustration and is not generated by this script.
 
 # ---------------------------------------------------------------- Fig. 3 and S1-S4 network maps
 geo = json.load(open(P("01_data", "bali_adm1_geoboundaries.geojson")))
