@@ -2,7 +2,7 @@
 
 Code and derived data for "The Structural–Experiential Mismatch Index: A Computational
 Instrument Linking Co-visitation Networks and Transformer-Based Classification of Visitor
-Reviews". Every number in Tables 2–3, Figs. 1–4 and Online Resource 1 (Tables S1–S4, Figs. S1–S4)
+Reviews". Every number in Tables 2–3, Figs. 1, 3 and 4 and Online Resource 1 (Tables S1–S4, Figs. S1–S4)
 is produced by the scripts below. Run the steps in order; each script writes its outputs next to itself.
 
 | Step | Folder | Script | Produces |
@@ -13,7 +13,7 @@ is produced by the scripts below. Run the steps in order; each script writes its
 | 3 | `03_classification` | `classifier_v2.ipynb` | `cv_metrics_v2.json` (Table S4), `cv_predictions_v2.csv`, `corpus_predictions_v2.csv` |
 | 4 | `04_network` | `build_networks.py` | `table2_quarterly_metrics.csv` (Table 2), `node_metrics_quarterly.csv`, `edges/` |
 | 5 | `05_semi` | `compute_semi.py` | `table3_semi.csv` (Table 3, Fig. 4), `tableS1_robustness.csv` (Table S1), `tableS3_experience_shares.csv` (Table S3) |
-| 6 | `06_figures` | `make_figures.py` | Figs. 1–4 and Figs. S1–S4 |
+| 6 | `06_figures` | `make_figures.py` | Figs. 1, 3, 4 and Figs. S1–S4 (Fig. 2 is a manually prepared illustration) |
 
 ## Data
 Two Google Maps extractions of 33 Bali destinations were collected with Apify: a network
