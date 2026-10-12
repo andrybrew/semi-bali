@@ -1,0 +1,75 @@
+Source,Target
+Jimbaran Beach,Kuta Beach
+Jimbaran Beach,Nusa Dua Beach
+Jimbaran Beach,Sanur
+Jimbaran Beach,Bajra Sandhi Monument
+Jimbaran Beach,Besakih Great Temple
+Jimbaran Beach,Mt Batur
+Jimbaran Beach,Seminyak Beach
+Jimbaran Beach,Taman Ayun Temple
+Jimbaran Beach,Tirta Gangga
+Jimbaran Beach,Angel's Billabong
+Jimbaran Beach,Crystal Bay Nusa Penida
+Jimbaran Beach,Balangan Beach
+Jimbaran Beach,Blue Lagoon Beach
+Jimbaran Beach,Padang Padang Beach
+Kuta Beach,Nusa Dua Beach
+Kuta Beach,Angel's Billabong
+Kuta Beach,Besakih Great Temple
+Kuta Beach,Tirta Gangga
+Kuta Beach,Sanur
+Kuta Beach,Mt Batur
+Kuta Beach,Seminyak Beach
+Kuta Beach,Crystal Bay Nusa Penida
+Kuta Beach,Ubud Art Market
+Kuta Beach,Balangan Beach
+Kuta Beach,Blue Lagoon Beach
+Nusa Dua Beach,Seminyak Beach
+Nusa Dua Beach,Balangan Beach
+Nusa Dua Beach,Besakih Great Temple
+Nusa Dua Beach,Padang Padang Beach
+Nusa Dua Beach,Tirta Gangga
+Nusa Dua Beach,Blue Lagoon Beach
+Nusa Dua Beach,Mt Batur
+Angel's Billabong,Besakih Great Temple
+Angel's Billabong,Balangan Beach
+Angel's Billabong,Tirta Gangga
+Angel's Billabong,Crystal Bay Nusa Penida
+Angel's Billabong,Sanur
+Besakih Great Temple,Tirta Gangga
+Besakih Great Temple,Bajra Sandhi Monument
+Besakih Great Temple,Mt Batur
+Besakih Great Temple,Seminyak Beach
+Besakih Great Temple,Taman Ayun Temple
+Besakih Great Temple,Balangan Beach
+Besakih Great Temple,Padang Padang Beach
+Tirta Gangga,Mt Batur
+Tirta Gangga,Penida Island
+Tirta Gangga,Balangan Beach
+Tirta Gangga,Blue Lagoon Beach
+Tirta Gangga,Taman Ayun Temple
+Tirta Gangga,Bajra Sandhi Monument
+Tirta Gangga,Seminyak Beach
+Tirta Gangga,Padang Padang Beach
+Penida Island,Sanur
+Penida Island,Mt Batur
+Sanur,Bajra Sandhi Monument
+Sanur,Seminyak Beach
+Mt Batur,Seminyak Beach
+Mt Batur,Taman Ayun Temple
+Mt Batur,Bajra Sandhi Monument
+Mt Batur,Bukit Campuhan
+Mt Batur,Balangan Beach
+Mt Batur,Blue Lagoon Beach
+Balangan Beach,Padang Padang Beach
+Balangan Beach,Bukit Campuhan
+Balangan Beach,Taman Ayun Temple
+Balangan Beach,Blue Lagoon Beach
+Padang Padang Beach,Taman Ayun Temple
+Padang Padang Beach,Blue Lagoon Beach
+Blue Lagoon Beach,Ubud Art Market
+Bajra Sandhi Monument,Seminyak Beach
+Bajra Sandhi Monument,Taman Ayun Temple
+Seminyak Beach,Taman Ayun Temple
+Taman Ayun Temple,Bukit Campuhan
+Bukit Campuhan,Ubud Art Market

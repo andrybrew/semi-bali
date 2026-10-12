@@ -1,0 +1,72 @@
+Source,Target
+Bali Zoo,Besakih Great Temple
+Bali Zoo,Jimbaran Beach
+Bali Zoo,Mt Batur
+Bali Zoo,Seminyak Beach
+Bali Zoo,Tirta Gangga
+Bali Zoo,Bukit Campuhan
+Bali Zoo,Taman Ayun Temple
+Bali Zoo,Sanur
+Bali Zoo,Blue Lagoon Beach
+Bali Zoo,Kuta Beach
+Bali Zoo,Balangan Beach
+Besakih Great Temple,Jimbaran Beach
+Besakih Great Temple,Mt Batur
+Besakih Great Temple,Seminyak Beach
+Besakih Great Temple,Kuta Beach
+Besakih Great Temple,Taman Ayun Temple
+Besakih Great Temple,Balangan Beach
+Besakih Great Temple,Tirta Gangga
+Besakih Great Temple,Blue Lagoon Beach
+Besakih Great Temple,Sanur
+Besakih Great Temple,Padang Padang Beach
+Jimbaran Beach,Mt Batur
+Jimbaran Beach,Seminyak Beach
+Jimbaran Beach,Tirta Gangga
+Jimbaran Beach,Kuta Beach
+Jimbaran Beach,Balangan Beach
+Mt Batur,Seminyak Beach
+Mt Batur,Tirta Gangga
+Mt Batur,Blue Lagoon Beach
+Mt Batur,Nusa Dua Beach
+Mt Batur,Kuta Beach
+Seminyak Beach,Kuta Beach
+Seminyak Beach,Bajra Sandhi Monument
+Seminyak Beach,Balangan Beach
+Seminyak Beach,Crystal Bay Nusa Penida
+Seminyak Beach,Ubud Art Market
+Kuta Beach,Taman Ayun Temple
+Kuta Beach,Tirta Gangga
+Kuta Beach,Balangan Beach
+Kuta Beach,Sanur
+Kuta Beach,Padang Padang Beach
+Kuta Beach,Ubud Art Market
+Kuta Beach,Nusa Dua Beach
+Kuta Beach,Penida Island
+Kuta Beach,Bajra Sandhi Monument
+Kuta Beach,Crystal Bay Nusa Penida
+Tirta Gangga,Ubud Art Market
+Tirta Gangga,Taman Ayun Temple
+Tirta Gangga,Blue Lagoon Beach
+Tirta Gangga,Padang Padang Beach
+Tirta Gangga,Nusa Dua Beach
+Tirta Gangga,Bukit Campuhan
+Ubud Art Market,Sanur
+Ubud Art Market,Bukit Campuhan
+Taman Ayun Temple,Crystal Bay Nusa Penida
+Taman Ayun Temple,Padang Padang Beach
+Balangan Beach,Sanur
+Balangan Beach,Padang Padang Beach
+Balangan Beach,Crystal Bay Nusa Penida
+Sanur,Padang Padang Beach
+Sanur,Bajra Sandhi Monument
+Sanur,Penida Island
+Sanur,Blue Lagoon Beach
+Sanur,Crystal Bay Nusa Penida
+Sanur,Nusa Dua Beach
+Sanur,Kapten I Wayan Dipta Stadium
+Padang Padang Beach,Crystal Bay Nusa Penida
+Crystal Bay Nusa Penida,Penida Island
+Crystal Bay Nusa Penida,Tanah Lot
+Bajra Sandhi Monument,Nusa Dua Beach
+Nusa Dua Beach,Blue Lagoon Beach

@@ -1,0 +1,393 @@
+Source,Target
+Ceking Rice Terrace,Nusa Dua Beach
+Ceking Rice Terrace,Tegenungan Waterfall
+Ceking Rice Terrace,Uluwatu Temple
+Ceking Rice Terrace,Besakih Great Temple
+Ceking Rice Terrace,Sacred Monkey Forest Sanctuary
+Ceking Rice Terrace,Tirta Gangga
+Ceking Rice Terrace,Mt Batur
+Ceking Rice Terrace,Padang Padang Beach
+Ceking Rice Terrace,Taman Ayun Temple
+Ceking Rice Terrace,Ulun Danu Beratan Temple
+Ceking Rice Terrace,Angel's Billabong
+Ceking Rice Terrace,Bukit Campuhan
+Ceking Rice Terrace,Tanah Lot
+Ceking Rice Terrace,Kuta Beach
+Ceking Rice Terrace,Blue Lagoon Beach
+Ceking Rice Terrace,Sanur
+Ceking Rice Terrace,Penglipuran Village
+Ceking Rice Terrace,Bajra Sandhi Monument
+Ceking Rice Terrace,Garuda Wisnu Kencana Cultural Park
+Ceking Rice Terrace,FINNS Beach Club
+Ceking Rice Terrace,Atlas Beach Club
+Ceking Rice Terrace,Seminyak Beach
+Ceking Rice Terrace,Penida Island
+Ceking Rice Terrace,Ubud Art Market
+Ceking Rice Terrace,Bali Zoo
+Ceking Rice Terrace,Kapten I Wayan Dipta Stadium
+Ceking Rice Terrace,Tirta Empul Temple
+Ceking Rice Terrace,Pandawa Beach
+Ceking Rice Terrace,Balangan Beach
+Ceking Rice Terrace,Jimbaran Beach
+Nusa Dua Beach,Tegenungan Waterfall
+Nusa Dua Beach,Uluwatu Temple
+Nusa Dua Beach,Kuta Beach
+Nusa Dua Beach,Angel's Billabong
+Nusa Dua Beach,Besakih Great Temple
+Nusa Dua Beach,Garuda Wisnu Kencana Cultural Park
+Nusa Dua Beach,Mt Batur
+Nusa Dua Beach,Sacred Monkey Forest Sanctuary
+Nusa Dua Beach,Tirta Gangga
+Nusa Dua Beach,Tanah Lot
+Nusa Dua Beach,Ulun Danu Beratan Temple
+Nusa Dua Beach,Padang Padang Beach
+Nusa Dua Beach,Sanur
+Nusa Dua Beach,Atlas Beach Club
+Nusa Dua Beach,Pandawa Beach
+Nusa Dua Beach,Ubud Art Market
+Nusa Dua Beach,Bukit Campuhan
+Nusa Dua Beach,Seminyak Beach
+Nusa Dua Beach,FINNS Beach Club
+Nusa Dua Beach,Bali Zoo
+Nusa Dua Beach,Jimbaran Beach
+Nusa Dua Beach,Balangan Beach
+Nusa Dua Beach,Penglipuran Village
+Nusa Dua Beach,Blue Lagoon Beach
+Tegenungan Waterfall,Uluwatu Temple
+Tegenungan Waterfall,Sacred Monkey Forest Sanctuary
+Tegenungan Waterfall,Mt Batur
+Tegenungan Waterfall,Ulun Danu Beratan Temple
+Tegenungan Waterfall,Tirta Gangga
+Tegenungan Waterfall,Penglipuran Village
+Tegenungan Waterfall,Angel's Billabong
+Tegenungan Waterfall,Atlas Beach Club
+Tegenungan Waterfall,Blue Lagoon Beach
+Tegenungan Waterfall,Garuda Wisnu Kencana Cultural Park
+Tegenungan Waterfall,Sanur
+Tegenungan Waterfall,Ubud Art Market
+Tegenungan Waterfall,Jimbaran Beach
+Tegenungan Waterfall,Seminyak Beach
+Tegenungan Waterfall,Tanah Lot
+Tegenungan Waterfall,Taman Ayun Temple
+Tegenungan Waterfall,FINNS Beach Club
+Tegenungan Waterfall,Besakih Great Temple
+Tegenungan Waterfall,Tirta Empul Temple
+Tegenungan Waterfall,Bajra Sandhi Monument
+Tegenungan Waterfall,Kuta Beach
+Tegenungan Waterfall,Bukit Campuhan
+Tegenungan Waterfall,Bali Zoo
+Tegenungan Waterfall,Padang Padang Beach
+Tegenungan Waterfall,Pandawa Beach
+Tegenungan Waterfall,Penida Island
+Tegenungan Waterfall,Git Git Waterfall
+Uluwatu Temple,Pandawa Beach
+Uluwatu Temple,Angel's Billabong
+Uluwatu Temple,Padang Padang Beach
+Uluwatu Temple,Ubud Art Market
+Uluwatu Temple,Ulun Danu Beratan Temple
+Uluwatu Temple,Besakih Great Temple
+Uluwatu Temple,Sacred Monkey Forest Sanctuary
+Uluwatu Temple,Tirta Gangga
+Uluwatu Temple,Tanah Lot
+Uluwatu Temple,Mt Batur
+Uluwatu Temple,Taman Ayun Temple
+Uluwatu Temple,Jimbaran Beach
+Uluwatu Temple,Penglipuran Village
+Uluwatu Temple,Garuda Wisnu Kencana Cultural Park
+Uluwatu Temple,Atlas Beach Club
+Uluwatu Temple,FINNS Beach Club
+Uluwatu Temple,Sanur
+Uluwatu Temple,Bajra Sandhi Monument
+Uluwatu Temple,Kapten I Wayan Dipta Stadium
+Uluwatu Temple,Bukit Campuhan
+Uluwatu Temple,Kuta Beach
+Uluwatu Temple,Bali Zoo
+Uluwatu Temple,Seminyak Beach
+Uluwatu Temple,Penida Island
+Uluwatu Temple,Blue Lagoon Beach
+Uluwatu Temple,Tirta Empul Temple
+Uluwatu Temple,Balangan Beach
+Uluwatu Temple,Git Git Waterfall
+Bukit Campuhan,Mt Batur
+Bukit Campuhan,Sacred Monkey Forest Sanctuary
+Bukit Campuhan,Angel's Billabong
+Bukit Campuhan,Atlas Beach Club
+Bukit Campuhan,Ubud Art Market
+Bukit Campuhan,Ulun Danu Beratan Temple
+Bukit Campuhan,Padang Padang Beach
+Bukit Campuhan,Tanah Lot
+Bukit Campuhan,Bajra Sandhi Monument
+Bukit Campuhan,Garuda Wisnu Kencana Cultural Park
+Bukit Campuhan,Besakih Great Temple
+Bukit Campuhan,Penglipuran Village
+Bukit Campuhan,Seminyak Beach
+Bukit Campuhan,Penida Island
+Bukit Campuhan,Bali Zoo
+Bukit Campuhan,FINNS Beach Club
+Bukit Campuhan,Kuta Beach
+Bukit Campuhan,Tirta Gangga
+Bukit Campuhan,Blue Lagoon Beach
+Bukit Campuhan,Taman Ayun Temple
+Bukit Campuhan,Pandawa Beach
+Bukit Campuhan,Balangan Beach
+Bukit Campuhan,Sanur
+Mt Batur,Sacred Monkey Forest Sanctuary
+Mt Batur,Padang Padang Beach
+Mt Batur,Taman Ayun Temple
+Mt Batur,Ulun Danu Beratan Temple
+Mt Batur,Angel's Billabong
+Mt Batur,Tanah Lot
+Mt Batur,Besakih Great Temple
+Mt Batur,Bajra Sandhi Monument
+Mt Batur,Garuda Wisnu Kencana Cultural Park
+Mt Batur,Tirta Gangga
+Mt Batur,Penida Island
+Mt Batur,Seminyak Beach
+Mt Batur,Atlas Beach Club
+Mt Batur,FINNS Beach Club
+Mt Batur,Kuta Beach
+Mt Batur,Pandawa Beach
+Mt Batur,Penglipuran Village
+Mt Batur,Blue Lagoon Beach
+Mt Batur,Git Git Waterfall
+Mt Batur,Balangan Beach
+Mt Batur,Ubud Art Market
+Sacred Monkey Forest Sanctuary,Atlas Beach Club
+Sacred Monkey Forest Sanctuary,Penglipuran Village
+Sacred Monkey Forest Sanctuary,Tanah Lot
+Sacred Monkey Forest Sanctuary,Besakih Great Temple
+Sacred Monkey Forest Sanctuary,Tirta Gangga
+Sacred Monkey Forest Sanctuary,Angel's Billabong
+Sacred Monkey Forest Sanctuary,Ulun Danu Beratan Temple
+Sacred Monkey Forest Sanctuary,Garuda Wisnu Kencana Cultural Park
+Sacred Monkey Forest Sanctuary,Kuta Beach
+Sacred Monkey Forest Sanctuary,Ubud Art Market
+Sacred Monkey Forest Sanctuary,Sanur
+Sacred Monkey Forest Sanctuary,Taman Ayun Temple
+Sacred Monkey Forest Sanctuary,FINNS Beach Club
+Sacred Monkey Forest Sanctuary,Bali Zoo
+Sacred Monkey Forest Sanctuary,Seminyak Beach
+Sacred Monkey Forest Sanctuary,Padang Padang Beach
+Sacred Monkey Forest Sanctuary,Balangan Beach
+Sacred Monkey Forest Sanctuary,Jimbaran Beach
+Sacred Monkey Forest Sanctuary,Penida Island
+Sacred Monkey Forest Sanctuary,Bajra Sandhi Monument
+Sacred Monkey Forest Sanctuary,Blue Lagoon Beach
+Sacred Monkey Forest Sanctuary,Pandawa Beach
+Sacred Monkey Forest Sanctuary,Kapten I Wayan Dipta Stadium
+Blue Lagoon Beach,Tirta Gangga
+Blue Lagoon Beach,Sanur
+Blue Lagoon Beach,Angel's Billabong
+Blue Lagoon Beach,FINNS Beach Club
+Blue Lagoon Beach,Tanah Lot
+Blue Lagoon Beach,Taman Ayun Temple
+Blue Lagoon Beach,Besakih Great Temple
+Blue Lagoon Beach,Ulun Danu Beratan Temple
+Blue Lagoon Beach,Bali Zoo
+Tirta Gangga,Kuta Beach
+Tirta Gangga,Taman Ayun Temple
+Tirta Gangga,Ulun Danu Beratan Temple
+Tirta Gangga,Besakih Great Temple
+Tirta Gangga,Tanah Lot
+Tirta Gangga,FINNS Beach Club
+Tirta Gangga,Atlas Beach Club
+Tirta Gangga,Garuda Wisnu Kencana Cultural Park
+Tirta Gangga,Padang Padang Beach
+Tirta Gangga,Penglipuran Village
+Tirta Gangga,Angel's Billabong
+Tirta Gangga,Tirta Empul Temple
+Tirta Gangga,Ubud Art Market
+Tirta Gangga,Bajra Sandhi Monument
+Tirta Gangga,Bali Zoo
+Tirta Gangga,Sanur
+Tirta Gangga,Jimbaran Beach
+Tirta Gangga,Pandawa Beach
+Tirta Gangga,Seminyak Beach
+Tirta Gangga,Penida Island
+Pandawa Beach,Garuda Wisnu Kencana Cultural Park
+Pandawa Beach,Penglipuran Village
+Pandawa Beach,Kuta Beach
+Pandawa Beach,Tanah Lot
+Pandawa Beach,Bajra Sandhi Monument
+Pandawa Beach,Ulun Danu Beratan Temple
+Pandawa Beach,FINNS Beach Club
+Pandawa Beach,Atlas Beach Club
+Pandawa Beach,Bali Zoo
+Pandawa Beach,Tirta Empul Temple
+Pandawa Beach,Padang Padang Beach
+Pandawa Beach,Besakih Great Temple
+Pandawa Beach,Jimbaran Beach
+Pandawa Beach,Ubud Art Market
+Pandawa Beach,Angel's Billabong
+Pandawa Beach,Balangan Beach
+Pandawa Beach,Seminyak Beach
+Pandawa Beach,Taman Ayun Temple
+Pandawa Beach,Sanur
+Pandawa Beach,Penida Island
+Kuta Beach,Penglipuran Village
+Kuta Beach,Tanah Lot
+Kuta Beach,Jimbaran Beach
+Kuta Beach,Garuda Wisnu Kencana Cultural Park
+Kuta Beach,Sanur
+Kuta Beach,Seminyak Beach
+Kuta Beach,Bajra Sandhi Monument
+Kuta Beach,Ulun Danu Beratan Temple
+Kuta Beach,Padang Padang Beach
+Kuta Beach,Taman Ayun Temple
+Kuta Beach,Tirta Empul Temple
+Kuta Beach,Atlas Beach Club
+Kuta Beach,Ubud Art Market
+Kuta Beach,FINNS Beach Club
+Kuta Beach,Besakih Great Temple
+Kuta Beach,Bali Zoo
+Kuta Beach,Git Git Waterfall
+Garuda Wisnu Kencana Cultural Park,Ulun Danu Beratan Temple
+Garuda Wisnu Kencana Cultural Park,Penglipuran Village
+Garuda Wisnu Kencana Cultural Park,Tanah Lot
+Garuda Wisnu Kencana Cultural Park,Atlas Beach Club
+Garuda Wisnu Kencana Cultural Park,Besakih Great Temple
+Garuda Wisnu Kencana Cultural Park,Padang Padang Beach
+Garuda Wisnu Kencana Cultural Park,Sanur
+Garuda Wisnu Kencana Cultural Park,Ubud Art Market
+Garuda Wisnu Kencana Cultural Park,Bajra Sandhi Monument
+Garuda Wisnu Kencana Cultural Park,Angel's Billabong
+Garuda Wisnu Kencana Cultural Park,Taman Ayun Temple
+Garuda Wisnu Kencana Cultural Park,Tirta Empul Temple
+Garuda Wisnu Kencana Cultural Park,Bali Zoo
+Garuda Wisnu Kencana Cultural Park,FINNS Beach Club
+Garuda Wisnu Kencana Cultural Park,Penida Island
+Garuda Wisnu Kencana Cultural Park,Seminyak Beach
+Garuda Wisnu Kencana Cultural Park,Git Git Waterfall
+Garuda Wisnu Kencana Cultural Park,Jimbaran Beach
+Garuda Wisnu Kencana Cultural Park,Balangan Beach
+Ulun Danu Beratan Temple,Taman Ayun Temple
+Ulun Danu Beratan Temple,Penglipuran Village
+Ulun Danu Beratan Temple,Tanah Lot
+Ulun Danu Beratan Temple,Angel's Billabong
+Ulun Danu Beratan Temple,Besakih Great Temple
+Ulun Danu Beratan Temple,Padang Padang Beach
+Ulun Danu Beratan Temple,Jimbaran Beach
+Ulun Danu Beratan Temple,Atlas Beach Club
+Ulun Danu Beratan Temple,Ubud Art Market
+Ulun Danu Beratan Temple,Sanur
+Ulun Danu Beratan Temple,Bajra Sandhi Monument
+Ulun Danu Beratan Temple,Bali Zoo
+Ulun Danu Beratan Temple,Tirta Empul Temple
+Ulun Danu Beratan Temple,FINNS Beach Club
+Ulun Danu Beratan Temple,Balangan Beach
+Ulun Danu Beratan Temple,Seminyak Beach
+Ulun Danu Beratan Temple,Penida Island
+Ulun Danu Beratan Temple,Git Git Waterfall
+Ulun Danu Beratan Temple,Kapten I Wayan Dipta Stadium
+Angel's Billabong,Besakih Great Temple
+Angel's Billabong,Bali Zoo
+Angel's Billabong,FINNS Beach Club
+Angel's Billabong,Tanah Lot
+Angel's Billabong,Penida Island
+Angel's Billabong,Atlas Beach Club
+Angel's Billabong,Jimbaran Beach
+Angel's Billabong,Padang Padang Beach
+Angel's Billabong,Sanur
+Angel's Billabong,Penglipuran Village
+Angel's Billabong,Ubud Art Market
+Angel's Billabong,Seminyak Beach
+Angel's Billabong,Taman Ayun Temple
+Angel's Billabong,Balangan Beach
+Penglipuran Village,Tanah Lot
+Penglipuran Village,Atlas Beach Club
+Penglipuran Village,Jimbaran Beach
+Penglipuran Village,Besakih Great Temple
+Penglipuran Village,FINNS Beach Club
+Penglipuran Village,Bajra Sandhi Monument
+Penglipuran Village,Bali Zoo
+Penglipuran Village,Ubud Art Market
+Penglipuran Village,Kapten I Wayan Dipta Stadium
+Penglipuran Village,Tirta Empul Temple
+Penglipuran Village,Padang Padang Beach
+Penglipuran Village,Taman Ayun Temple
+Penglipuran Village,Penida Island
+Penglipuran Village,Sanur
+Penglipuran Village,Seminyak Beach
+Taman Ayun Temple,Tanah Lot
+Taman Ayun Temple,Padang Padang Beach
+Taman Ayun Temple,Bajra Sandhi Monument
+Taman Ayun Temple,Kapten I Wayan Dipta Stadium
+Taman Ayun Temple,Bali Zoo
+Taman Ayun Temple,Tirta Empul Temple
+Taman Ayun Temple,Besakih Great Temple
+Taman Ayun Temple,Balangan Beach
+Taman Ayun Temple,FINNS Beach Club
+Taman Ayun Temple,Seminyak Beach
+Taman Ayun Temple,Ubud Art Market
+Taman Ayun Temple,Git Git Waterfall
+Padang Padang Beach,Tanah Lot
+Padang Padang Beach,Ubud Art Market
+Padang Padang Beach,Atlas Beach Club
+Padang Padang Beach,Besakih Great Temple
+Padang Padang Beach,FINNS Beach Club
+Padang Padang Beach,Seminyak Beach
+Padang Padang Beach,Sanur
+Padang Padang Beach,Bali Zoo
+Padang Padang Beach,Balangan Beach
+Padang Padang Beach,Penida Island
+Tanah Lot,Atlas Beach Club
+Tanah Lot,Besakih Great Temple
+Tanah Lot,FINNS Beach Club
+Tanah Lot,Bajra Sandhi Monument
+Tanah Lot,Penida Island
+Tanah Lot,Bali Zoo
+Tanah Lot,Jimbaran Beach
+Tanah Lot,Ubud Art Market
+Tanah Lot,Balangan Beach
+Tanah Lot,Sanur
+Tanah Lot,Seminyak Beach
+Tanah Lot,Kapten I Wayan Dipta Stadium
+Ubud Art Market,Jimbaran Beach
+Ubud Art Market,Atlas Beach Club
+Ubud Art Market,Sanur
+Ubud Art Market,Bali Zoo
+Ubud Art Market,FINNS Beach Club
+Ubud Art Market,Seminyak Beach
+Ubud Art Market,Besakih Great Temple
+Ubud Art Market,Penida Island
+Atlas Beach Club,Besakih Great Temple
+Atlas Beach Club,FINNS Beach Club
+Atlas Beach Club,Seminyak Beach
+Atlas Beach Club,Bajra Sandhi Monument
+Atlas Beach Club,Bali Zoo
+Atlas Beach Club,Penida Island
+Atlas Beach Club,Sanur
+Atlas Beach Club,Balangan Beach
+Besakih Great Temple,Bajra Sandhi Monument
+Besakih Great Temple,Penida Island
+Besakih Great Temple,Seminyak Beach
+Besakih Great Temple,Balangan Beach
+Besakih Great Temple,Bali Zoo
+Besakih Great Temple,Jimbaran Beach
+Besakih Great Temple,Tirta Empul Temple
+Besakih Great Temple,Sanur
+Besakih Great Temple,Git Git Waterfall
+Besakih Great Temple,FINNS Beach Club
+FINNS Beach Club,Bali Zoo
+FINNS Beach Club,Seminyak Beach
+FINNS Beach Club,Penida Island
+FINNS Beach Club,Sanur
+FINNS Beach Club,Jimbaran Beach
+Jimbaran Beach,Seminyak Beach
+Jimbaran Beach,Balangan Beach
+Sanur,Balangan Beach
+Sanur,Bali Zoo
+Sanur,Penida Island
+Sanur,Crystal Bay Nusa Penida
+Sanur,Seminyak Beach
+Sanur,Bajra Sandhi Monument
+Balangan Beach,Seminyak Beach
+Bajra Sandhi Monument,Kapten I Wayan Dipta Stadium
+Bajra Sandhi Monument,Seminyak Beach
+Kapten I Wayan Dipta Stadium,Bali Zoo
+Seminyak Beach,Bali Zoo
+Seminyak Beach,Penida Island
+Bali Zoo,Git Git Waterfall
+Bali Zoo,Tirta Empul Temple
+Bali Zoo,Penida Island
+Penida Island,Tirta Empul Temple

@@ -1,0 +1,31 @@
+dest,n,HV,S,SEMI,quadrant,SEMI_lo90,SEMI_hi90,quadrant_stability
+Bukit Campuhan,1557,44.7,0.78,2.05,Hidden gem,1.63,2.42,90.0
+Besakih Great Temple,167,41.9,0.76,1.89,Hidden gem,1.39,2.29,99.0
+Blue Lagoon Beach,2658,34.8,0.63,1.87,Hidden gem,1.52,2.15,100.0
+Garuda Wisnu Kencana Cultural Park,2315,32.3,0.68,1.51,Hidden gem,1.31,1.64,100.0
+Penglipuran Village,459,26.1,0.69,1.03,Hidden gem,0.74,1.26,100.0
+Tanah Lot,6414,23.7,0.75,0.66,Hidden gem,0.53,0.76,100.0
+Penida Island,1643,16.1,0.63,0.56,Hidden gem,0.07,0.99,76.0
+Ulun Danu Beratan Temple,7753,26.9,0.85,0.5,Hidden gem,0.35,0.62,48.0
+Balangan Beach,1524,19.9,0.79,0.24,Hidden gem,-0.29,0.67,77.0
+Mt Batur,2788,57.4,0.88,2.57,Iconic anchor,2.14,2.92,70.0
+Uluwatu Temple,2765,34.5,0.86,1.01,Iconic anchor,0.82,1.21,66.0
+Taman Ayun Temple,2895,44.6,1.37,-0.13,Iconic anchor,-0.47,0.31,100.0
+Padang Padang Beach,110,18.2,0.98,-0.57,Iconic anchor,-1.12,-0.0,79.0
+Crystal Bay Nusa Penida,4559,20.3,1.17,-1.12,Iconic anchor,-1.63,-0.56,100.0
+Git Git Waterfall,679,19.1,1.32,-1.72,Iconic anchor,-2.72,-0.63,99.0
+Tegenungan Waterfall,613,14.0,0.89,-0.55,Generic hub,-0.84,-0.25,75.0
+Ubud Art Market,1371,13.9,0.97,-0.84,Generic hub,-1.17,-0.5,93.0
+Tirta Gangga,6914,12.4,0.95,-0.86,Generic hub,-1.07,-0.67,100.0
+Seminyak Beach,2255,8.9,0.98,-1.23,Generic hub,-1.58,-0.85,98.0
+Ceking Rice Terrace,376,14.4,1.13,-1.39,Generic hub,-1.71,-1.0,76.0
+Angel's Billabong,2338,8.3,1.09,-1.67,Generic hub,-1.95,-1.35,100.0
+Nusa Dua Beach,2995,7.0,1.08,-1.73,Generic hub,-2.42,-1.0,97.0
+Jimbaran Beach,1831,4.3,1.05,-1.82,Generic hub,-2.25,-1.36,100.0
+Pandawa Beach,139,7.9,1.27,-2.34,Generic hub,-3.15,-1.49,100.0
+Atlas Beach Club,1226,0.7,0.19,1.06,Marginal,0.8,1.21,100.0
+FINNS Beach Club,928,2.4,0.27,0.9,Marginal,0.64,1.06,100.0
+Bali Zoo,7164,4.6,0.4,0.56,Marginal,0.37,0.68,100.0
+Kuta Beach,6229,13.5,0.75,-0.07,Marginal,-0.27,0.12,100.0
+Sacred Monkey Forest Sanctuary,6252,8.2,0.66,-0.11,Marginal,-0.24,-0.01,100.0
+Sanur,3033,9.3,0.72,-0.26,Marginal,-0.59,0.07,99.0

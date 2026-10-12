@@ -1,0 +1,186 @@
+Source,Target
+Mt Batur,Tirta Gangga
+Mt Batur,Blue Lagoon Beach
+Mt Batur,Crystal Bay Nusa Penida
+Mt Batur,Balangan Beach
+Mt Batur,Besakih Great Temple
+Mt Batur,Jimbaran Beach
+Mt Batur,Sanur
+Mt Batur,Penida Island
+Mt Batur,Nusa Dua Beach
+Mt Batur,Git Git Waterfall
+Mt Batur,Padang Padang Beach
+Mt Batur,Bukit Campuhan
+Mt Batur,Tanah Lot
+Mt Batur,Seminyak Beach
+Mt Batur,Ubud Art Market
+Mt Batur,Bali Zoo
+Mt Batur,Taman Ayun Temple
+Mt Batur,Sacred Monkey Forest Sanctuary
+Mt Batur,Uluwatu Temple
+Mt Batur,Kuta Beach
+Tirta Gangga,Crystal Bay Nusa Penida
+Tirta Gangga,Nusa Dua Beach
+Tirta Gangga,Taman Ayun Temple
+Tirta Gangga,Bukit Campuhan
+Tirta Gangga,Besakih Great Temple
+Tirta Gangga,Tanah Lot
+Tirta Gangga,Bali Zoo
+Tirta Gangga,Bajra Sandhi Monument
+Tirta Gangga,Blue Lagoon Beach
+Tirta Gangga,Jimbaran Beach
+Tirta Gangga,Sanur
+Tirta Gangga,Balangan Beach
+Tirta Gangga,Uluwatu Temple
+Tirta Gangga,Padang Padang Beach
+Tirta Gangga,Git Git Waterfall
+Tirta Gangga,Kuta Beach
+Tirta Gangga,Penida Island
+Tirta Gangga,Ubud Art Market
+Tirta Gangga,Sacred Monkey Forest Sanctuary
+Tirta Gangga,Kapten I Wayan Dipta Stadium
+Bali Zoo,Seminyak Beach
+Bali Zoo,Bajra Sandhi Monument
+Bali Zoo,Blue Lagoon Beach
+Bali Zoo,Penida Island
+Bali Zoo,Kuta Beach
+Bali Zoo,Taman Ayun Temple
+Bali Zoo,Kapten I Wayan Dipta Stadium
+Bali Zoo,Sanur
+Bali Zoo,Bukit Campuhan
+Bali Zoo,Besakih Great Temple
+Bali Zoo,Nusa Dua Beach
+Bali Zoo,Git Git Waterfall
+Bali Zoo,Sacred Monkey Forest Sanctuary
+Bali Zoo,Tanah Lot
+Bali Zoo,Padang Padang Beach
+Bali Zoo,Jimbaran Beach
+Bali Zoo,Crystal Bay Nusa Penida
+Seminyak Beach,Besakih Great Temple
+Seminyak Beach,Nusa Dua Beach
+Seminyak Beach,Tanah Lot
+Seminyak Beach,Sanur
+Seminyak Beach,Crystal Bay Nusa Penida
+Seminyak Beach,Bukit Campuhan
+Seminyak Beach,Taman Ayun Temple
+Seminyak Beach,Bajra Sandhi Monument
+Seminyak Beach,Ubud Art Market
+Seminyak Beach,Jimbaran Beach
+Seminyak Beach,Penida Island
+Seminyak Beach,Padang Padang Beach
+Seminyak Beach,Kuta Beach
+Seminyak Beach,Blue Lagoon Beach
+Seminyak Beach,Sacred Monkey Forest Sanctuary
+Crystal Bay Nusa Penida,Jimbaran Beach
+Crystal Bay Nusa Penida,Padang Padang Beach
+Crystal Bay Nusa Penida,Taman Ayun Temple
+Crystal Bay Nusa Penida,Besakih Great Temple
+Crystal Bay Nusa Penida,Nusa Dua Beach
+Crystal Bay Nusa Penida,Blue Lagoon Beach
+Crystal Bay Nusa Penida,Penida Island
+Crystal Bay Nusa Penida,Bukit Campuhan
+Crystal Bay Nusa Penida,Bajra Sandhi Monument
+Crystal Bay Nusa Penida,Sanur
+Crystal Bay Nusa Penida,Git Git Waterfall
+Crystal Bay Nusa Penida,Uluwatu Temple
+Crystal Bay Nusa Penida,Tanah Lot
+Crystal Bay Nusa Penida,Balangan Beach
+Crystal Bay Nusa Penida,Kuta Beach
+Crystal Bay Nusa Penida,Sacred Monkey Forest Sanctuary
+Crystal Bay Nusa Penida,Ubud Art Market
+Jimbaran Beach,Penida Island
+Jimbaran Beach,Balangan Beach
+Jimbaran Beach,Padang Padang Beach
+Jimbaran Beach,Besakih Great Temple
+Jimbaran Beach,Bajra Sandhi Monument
+Jimbaran Beach,Sanur
+Jimbaran Beach,Blue Lagoon Beach
+Jimbaran Beach,Nusa Dua Beach
+Jimbaran Beach,Kuta Beach
+Jimbaran Beach,Taman Ayun Temple
+Penida Island,Uluwatu Temple
+Penida Island,Blue Lagoon Beach
+Penida Island,Sanur
+Penida Island,Kapten I Wayan Dipta Stadium
+Penida Island,Besakih Great Temple
+Penida Island,Bajra Sandhi Monument
+Penida Island,Nusa Dua Beach
+Penida Island,Taman Ayun Temple
+Penida Island,Balangan Beach
+Penida Island,Bukit Campuhan
+Uluwatu Temple,Bajra Sandhi Monument
+Uluwatu Temple,Nusa Dua Beach
+Uluwatu Temple,Taman Ayun Temple
+Uluwatu Temple,Blue Lagoon Beach
+Uluwatu Temple,Padang Padang Beach
+Uluwatu Temple,Git Git Waterfall
+Uluwatu Temple,Besakih Great Temple
+Nusa Dua Beach,Bajra Sandhi Monument
+Nusa Dua Beach,Besakih Great Temple
+Nusa Dua Beach,Tanah Lot
+Nusa Dua Beach,Taman Ayun Temple
+Nusa Dua Beach,Sanur
+Nusa Dua Beach,Blue Lagoon Beach
+Nusa Dua Beach,Bukit Campuhan
+Nusa Dua Beach,Padang Padang Beach
+Nusa Dua Beach,Kuta Beach
+Nusa Dua Beach,Balangan Beach
+Nusa Dua Beach,Sacred Monkey Forest Sanctuary
+Nusa Dua Beach,Git Git Waterfall
+Bajra Sandhi Monument,Padang Padang Beach
+Bajra Sandhi Monument,Taman Ayun Temple
+Bajra Sandhi Monument,Balangan Beach
+Bajra Sandhi Monument,Sanur
+Bajra Sandhi Monument,Sacred Monkey Forest Sanctuary
+Bajra Sandhi Monument,Bukit Campuhan
+Bajra Sandhi Monument,Kuta Beach
+Bajra Sandhi Monument,Besakih Great Temple
+Bajra Sandhi Monument,Git Git Waterfall
+Bajra Sandhi Monument,Blue Lagoon Beach
+Bajra Sandhi Monument,Tanah Lot
+Padang Padang Beach,Taman Ayun Temple
+Padang Padang Beach,Balangan Beach
+Padang Padang Beach,Sanur
+Padang Padang Beach,Blue Lagoon Beach
+Padang Padang Beach,Git Git Waterfall
+Padang Padang Beach,Besakih Great Temple
+Padang Padang Beach,Kuta Beach
+Taman Ayun Temple,Bukit Campuhan
+Taman Ayun Temple,Besakih Great Temple
+Taman Ayun Temple,Tanah Lot
+Taman Ayun Temple,Git Git Waterfall
+Taman Ayun Temple,Sacred Monkey Forest Sanctuary
+Taman Ayun Temple,Blue Lagoon Beach
+Taman Ayun Temple,Balangan Beach
+Taman Ayun Temple,Kuta Beach
+Taman Ayun Temple,Kapten I Wayan Dipta Stadium
+Taman Ayun Temple,Ubud Art Market
+Taman Ayun Temple,Sanur
+Besakih Great Temple,Tanah Lot
+Besakih Great Temple,Kuta Beach
+Besakih Great Temple,Sanur
+Besakih Great Temple,Blue Lagoon Beach
+Besakih Great Temple,Balangan Beach
+Besakih Great Temple,Bukit Campuhan
+Besakih Great Temple,Sacred Monkey Forest Sanctuary
+Tanah Lot,Blue Lagoon Beach
+Tanah Lot,Kapten I Wayan Dipta Stadium
+Tanah Lot,Kuta Beach
+Tanah Lot,Sanur
+Tanah Lot,Sacred Monkey Forest Sanctuary
+Kuta Beach,Sanur
+Kuta Beach,Bukit Campuhan
+Kuta Beach,Balangan Beach
+Kuta Beach,Kapten I Wayan Dipta Stadium
+Sanur,Balangan Beach
+Sanur,Blue Lagoon Beach
+Sanur,Ubud Art Market
+Sanur,Sacred Monkey Forest Sanctuary
+Sanur,Bukit Campuhan
+Bukit Campuhan,Blue Lagoon Beach
+Bukit Campuhan,Ubud Art Market
+Bukit Campuhan,Git Git Waterfall
+Bukit Campuhan,Balangan Beach
+Blue Lagoon Beach,Git Git Waterfall
+Blue Lagoon Beach,Sacred Monkey Forest Sanctuary
+Blue Lagoon Beach,Kapten I Wayan Dipta Stadium

@@ -1,0 +1,583 @@
+ID,dest,A_round1,B_round1,A_round2,B_round2,gold,gold_source
+R0001,Kuta Beach,0,0,0,0,0,agreed_round1
+R0002,Balangan Beach,2,0,2,2,2,agreed_round2
+R0003,Penglipuran Village,0,0,0,0,0,agreed_round1
+R0004,Kuta Beach,2,2,2,2,2,agreed_round1
+R0005,Sanur,2,2,2,2,2,agreed_round1
+R0006,Nusa Dua Beach,2,0,2,2,2,agreed_round2
+R0007,Seminyak Beach,0,0,0,0,0,agreed_round1
+R0008,Nusa Dua Beach,2,2,2,2,2,agreed_round1
+R0009,Taman Ayun Temple,2,5,2,5,2,third_adjudicator
+R0010,Sanur,2,2,2,2,2,agreed_round1
+R0011,Ubud Art Market,4,4,4,4,4,agreed_round1
+R0012,Ubud Art Market,4,0,4,4,4,agreed_round2
+R0013,Tegenungan Waterfall,2,0,0,0,0,agreed_round2
+R0014,Penida Island,0,0,0,0,0,agreed_round1
+R0015,Ulun Danu Beratan Temple,0,0,0,0,0,agreed_round1
+R0016,Pandawa Beach,0,0,0,0,0,agreed_round1
+R0017,Mt Batur,2,2,2,2,2,agreed_round1
+R0018,Taman Ayun Temple,2,0,0,0,0,agreed_round2
+R0019,Penida Island,2,0,2,2,2,agreed_round2
+R0020,Besakih Great Temple,5,5,5,5,5,agreed_round1
+R0021,Uluwatu Temple,2,3,2,3,2,third_adjudicator
+R0022,Kuta Beach,2,2,2,2,2,agreed_round1
+R0023,Git Git Waterfall,0,0,0,0,0,agreed_round1
+R0024,Kuta Beach,2,4,2,2,2,agreed_round2
+R0025,Bajra Sandhi Monument,5,5,5,5,5,agreed_round1
+R0026,Penida Island,0,0,0,0,0,agreed_round1
+R0027,Tegenungan Waterfall,2,0,0,0,0,agreed_round2
+R0028,Tirta Gangga,2,4,2,2,2,agreed_round2
+R0029,Ubud Art Market,4,4,4,4,4,agreed_round1
+R0030,Ulun Danu Beratan Temple,2,5,2,5,2,third_adjudicator
+R0031,Angel's Billabong,2,0,2,2,2,agreed_round2
+R0032,Kuta Beach,2,2,2,2,2,agreed_round1
+R0033,Angel's Billabong,2,0,2,0,0,third_adjudicator
+R0034,FINNS Beach Club,0,0,0,0,0,agreed_round1
+R0035,Penglipuran Village,5,5,5,5,5,agreed_round1
+R0036,Taman Ayun Temple,0,0,0,0,0,agreed_round1
+R0037,Bukit Campuhan,3,0,3,0,3,third_adjudicator
+R0038,Uluwatu Temple,2,5,2,5,2,third_adjudicator
+R0039,Seminyak Beach,2,2,2,2,2,agreed_round1
+R0040,Uluwatu Temple,5,3,5,3,5,third_adjudicator
+R0041,Blue Lagoon Beach,2,4,2,4,2,third_adjudicator
+R0042,Padang Padang Beach,2,4,2,2,2,agreed_round2
+R0043,Uluwatu Temple,5,5,5,5,5,agreed_round1
+R0044,Jimbaran Beach,2,2,2,2,2,agreed_round1
+R0045,Balangan Beach,3,3,3,3,3,agreed_round1
+R0046,Tegenungan Waterfall,2,3,2,3,2,third_adjudicator
+R0047,Ubud Art Market,4,0,0,0,0,agreed_round2
+R0048,Penida Island,0,0,0,0,0,agreed_round1
+R0049,Padang Padang Beach,2,4,2,2,2,agreed_round2
+R0050,Ceking Rice Terrace,3,4,4,4,4,agreed_round2
+R0051,Git Git Waterfall,2,3,2,3,2,third_adjudicator
+R0052,Nusa Dua Beach,2,0,2,2,2,agreed_round2
+R0053,Atlas Beach Club,0,0,0,0,0,agreed_round1
+R0054,Crystal Bay Nusa Penida,2,0,0,0,0,agreed_round2
+R0055,Bukit Campuhan,2,0,2,2,2,agreed_round2
+R0056,Bajra Sandhi Monument,2,0,0,0,0,agreed_round2
+R0057,Jimbaran Beach,2,1,2,2,2,agreed_round2
+R0058,Blue Lagoon Beach,3,5,3,3,3,agreed_round2
+R0059,Bukit Campuhan,4,0,4,0,4,third_adjudicator
+R0060,Penida Island,4,3,4,3,4,third_adjudicator
+R0061,Besakih Great Temple,0,0,0,0,0,agreed_round1
+R0062,Penida Island,0,0,0,0,0,agreed_round1
+R0063,Padang Padang Beach,3,3,3,3,3,agreed_round1
+R0064,Bajra Sandhi Monument,3,4,3,4,3,third_adjudicator
+R0065,Ceking Rice Terrace,2,5,2,2,2,agreed_round2
+R0066,Crystal Bay Nusa Penida,0,0,0,0,0,agreed_round1
+R0067,Penida Island,0,0,0,0,0,agreed_round1
+R0068,Pandawa Beach,2,4,2,4,2,third_adjudicator
+R0069,Sacred Monkey Forest Sanctuary,2,3,2,3,2,third_adjudicator
+R0070,Bukit Campuhan,2,0,2,2,2,agreed_round2
+R0071,Sanur,2,2,2,2,2,agreed_round1
+R0072,Padang Padang Beach,4,4,4,4,4,agreed_round1
+R0073,Tirta Gangga,2,0,2,0,2,third_adjudicator
+R0074,Tirta Empul Temple,2,0,0,0,0,agreed_round2
+R0075,Sacred Monkey Forest Sanctuary,4,5,4,5,4,third_adjudicator
+R0076,Pandawa Beach,0,0,0,0,0,agreed_round1
+R0077,Balangan Beach,3,0,3,0,3,third_adjudicator
+R0078,Penglipuran Village,5,5,5,5,5,agreed_round1
+R0079,Nusa Dua Beach,2,0,2,2,2,agreed_round2
+R0080,Git Git Waterfall,2,0,2,0,2,third_adjudicator
+R0081,FINNS Beach Club,0,0,0,0,0,agreed_round1
+R0082,Besakih Great Temple,4,4,4,4,4,agreed_round1
+R0083,Ulun Danu Beratan Temple,0,0,0,0,0,agreed_round1
+R0084,Tanah Lot,2,0,2,0,2,third_adjudicator
+R0085,Ceking Rice Terrace,0,0,0,0,0,agreed_round1
+R0086,Bajra Sandhi Monument,2,0,2,0,2,third_adjudicator
+R0087,Garuda Wisnu Kencana Cultural Park,5,5,5,5,5,agreed_round1
+R0088,Uluwatu Temple,0,0,0,0,0,agreed_round1
+R0089,Taman Ayun Temple,2,5,2,5,2,third_adjudicator
+R0090,Ulun Danu Beratan Temple,2,0,2,2,2,agreed_round2
+R0091,Git Git Waterfall,3,0,3,0,3,third_adjudicator
+R0092,Bali Zoo,0,0,0,0,0,agreed_round1
+R0093,Tirta Empul Temple,5,2,5,2,5,third_adjudicator
+R0094,Atlas Beach Club,0,0,0,0,0,agreed_round1
+R0095,Ulun Danu Beratan Temple,0,0,0,0,0,agreed_round1
+R0096,FINNS Beach Club,1,0,1,0,1,third_adjudicator
+R0097,Bajra Sandhi Monument,3,4,3,4,3,third_adjudicator
+R0098,Nusa Dua Beach,2,0,2,0,2,third_adjudicator
+R0099,Tirta Gangga,0,0,0,0,0,agreed_round1
+R0100,Padang Padang Beach,3,3,3,3,3,agreed_round1
+R0101,Angel's Billabong,2,3,2,3,2,third_adjudicator
+R0102,Sacred Monkey Forest Sanctuary,2,3,2,3,2,third_adjudicator
+R0103,Sacred Monkey Forest Sanctuary,0,0,0,0,0,agreed_round1
+R0104,Taman Ayun Temple,5,5,5,5,5,agreed_round1
+R0105,Atlas Beach Club,2,0,1,0,1,third_adjudicator
+R0106,Atlas Beach Club,2,0,1,0,1,third_adjudicator
+R0107,Tegenungan Waterfall,0,0,0,0,0,agreed_round1
+R0108,FINNS Beach Club,1,0,1,1,1,agreed_round2
+R0109,Atlas Beach Club,0,0,0,0,0,agreed_round1
+R0110,Garuda Wisnu Kencana Cultural Park,2,0,2,2,2,agreed_round2
+R0111,Tirta Gangga,0,0,0,0,0,agreed_round1
+R0112,Git Git Waterfall,3,3,3,3,3,agreed_round1
+R0113,Jimbaran Beach,2,3,2,2,2,agreed_round2
+R0114,Sacred Monkey Forest Sanctuary,2,3,2,3,2,third_adjudicator
+R0115,Taman Ayun Temple,5,5,5,5,5,agreed_round1
+R0116,Bajra Sandhi Monument,2,0,2,0,2,third_adjudicator
+R0117,Bali Zoo,2,0,2,0,2,third_adjudicator
+R0118,Seminyak Beach,0,0,0,0,0,agreed_round1
+R0119,Balangan Beach,2,2,2,2,2,agreed_round1
+R0120,Padang Padang Beach,2,4,2,2,2,agreed_round2
+R0121,Nusa Dua Beach,2,2,2,2,2,agreed_round1
+R0122,Seminyak Beach,2,0,2,2,2,agreed_round2
+R0123,Jimbaran Beach,2,0,2,2,2,agreed_round2
+R0124,Tanah Lot,5,5,5,5,5,agreed_round1
+R0125,Mt Batur,0,0,0,0,0,agreed_round1
+R0126,Tanah Lot,2,0,0,0,0,agreed_round2
+R0127,Mt Batur,3,3,3,3,3,agreed_round1
+R0128,Ubud Art Market,2,0,2,0,0,third_adjudicator
+R0129,Git Git Waterfall,2,0,2,0,2,third_adjudicator
+R0130,Bajra Sandhi Monument,2,0,0,0,0,agreed_round2
+R0131,Penida Island,2,0,2,0,2,third_adjudicator
+R0132,Seminyak Beach,2,0,0,0,0,agreed_round2
+R0133,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0134,Tirta Gangga,0,0,0,0,0,agreed_round1
+R0135,Penida Island,3,5,3,5,5,third_adjudicator
+R0136,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0137,Balangan Beach,3,3,3,3,3,agreed_round1
+R0138,Ceking Rice Terrace,2,0,0,0,0,agreed_round2
+R0139,Balangan Beach,0,0,0,0,0,agreed_round1
+R0140,Besakih Great Temple,4,4,4,4,4,agreed_round1
+R0141,Jimbaran Beach,2,2,2,2,2,agreed_round1
+R0142,Tegenungan Waterfall,2,0,2,0,2,third_adjudicator
+R0143,Git Git Waterfall,4,3,4,4,4,agreed_round2
+R0144,Kuta Beach,3,0,3,3,3,agreed_round2
+R0145,Taman Ayun Temple,5,5,5,5,5,agreed_round1
+R0146,Sanur,0,0,0,0,0,agreed_round1
+R0147,Sacred Monkey Forest Sanctuary,0,0,0,0,0,agreed_round1
+R0148,Uluwatu Temple,5,4,5,4,5,third_adjudicator
+R0149,Blue Lagoon Beach,0,0,0,0,0,agreed_round1
+R0150,Kuta Beach,0,0,0,0,0,agreed_round1
+R0151,Tanah Lot,0,0,0,0,0,agreed_round1
+R0152,Penglipuran Village,0,0,0,0,0,agreed_round1
+R0153,Sanur,0,0,0,0,0,agreed_round1
+R0154,Sanur,0,0,0,0,0,agreed_round1
+R0155,Blue Lagoon Beach,3,0,3,3,3,agreed_round2
+R0156,Blue Lagoon Beach,2,2,2,2,2,agreed_round1
+R0157,Penglipuran Village,4,4,4,4,4,agreed_round1
+R0158,Jimbaran Beach,5,5,5,5,5,agreed_round1
+R0159,Bukit Campuhan,0,0,0,0,0,agreed_round1
+R0160,Ceking Rice Terrace,2,0,0,0,0,agreed_round2
+R0161,Ceking Rice Terrace,2,0,2,0,2,third_adjudicator
+R0162,Penglipuran Village,2,0,2,0,2,third_adjudicator
+R0163,Mt Batur,2,0,2,2,2,agreed_round2
+R0164,Crystal Bay Nusa Penida,0,0,0,0,0,agreed_round1
+R0165,Penida Island,0,0,0,0,0,agreed_round1
+R0166,Penida Island,0,0,0,0,0,agreed_round1
+R0167,Taman Ayun Temple,2,0,2,0,2,third_adjudicator
+R0168,Padang Padang Beach,4,4,4,4,4,agreed_round1
+R0169,Crystal Bay Nusa Penida,0,0,0,0,0,agreed_round1
+R0170,Padang Padang Beach,2,4,2,2,2,agreed_round2
+R0171,Mt Batur,3,3,3,3,3,agreed_round1
+R0172,Atlas Beach Club,2,0,2,0,2,third_adjudicator
+R0173,Uluwatu Temple,5,5,5,5,5,agreed_round1
+R0174,Git Git Waterfall,2,0,2,0,2,third_adjudicator
+R0175,Atlas Beach Club,1,0,1,1,1,agreed_round2
+R0176,Blue Lagoon Beach,3,0,3,3,3,agreed_round2
+R0177,Angel's Billabong,0,0,0,0,0,agreed_round1
+R0178,FINNS Beach Club,0,0,0,0,0,agreed_round1
+R0179,Mt Batur,3,3,3,3,3,agreed_round1
+R0180,Kuta Beach,3,5,3,3,3,agreed_round2
+R0181,Ulun Danu Beratan Temple,5,5,5,5,5,agreed_round1
+R0182,Tegenungan Waterfall,2,3,2,2,2,agreed_round2
+R0183,Angel's Billabong,2,3,2,3,2,third_adjudicator
+R0184,Ulun Danu Beratan Temple,0,0,0,0,0,agreed_round1
+R0185,Balangan Beach,2,4,2,2,2,agreed_round2
+R0186,Pandawa Beach,2,0,2,2,2,agreed_round2
+R0187,Mt Batur,3,2,3,2,3,third_adjudicator
+R0188,Angel's Billabong,2,0,2,2,2,agreed_round2
+R0189,Penglipuran Village,5,5,5,5,5,agreed_round1
+R0190,Bali Zoo,0,0,0,0,0,agreed_round1
+R0191,Jimbaran Beach,2,2,2,2,2,agreed_round1
+R0192,Tirta Gangga,2,0,2,0,2,third_adjudicator
+R0193,Ubud Art Market,4,4,4,4,4,agreed_round1
+R0194,Bali Zoo,0,0,0,0,0,agreed_round1
+R0195,Nusa Dua Beach,0,0,0,0,0,agreed_round1
+R0196,Atlas Beach Club,2,0,1,2,2,third_adjudicator
+R0197,Pandawa Beach,2,0,2,2,2,agreed_round2
+R0198,Pandawa Beach,2,0,2,2,2,agreed_round2
+R0199,Ubud Art Market,0,0,0,0,0,agreed_round1
+R0200,Kuta Beach,0,0,0,0,0,agreed_round1
+R0201,Padang Padang Beach,4,5,4,5,4,third_adjudicator
+R0202,Blue Lagoon Beach,3,4,3,3,3,agreed_round2
+R0203,Jimbaran Beach,2,2,2,2,2,agreed_round1
+R0204,Ceking Rice Terrace,2,0,2,0,2,third_adjudicator
+R0205,Angel's Billabong,0,0,0,0,0,agreed_round1
+R0206,Crystal Bay Nusa Penida,3,0,3,0,2,third_adjudicator
+R0207,Garuda Wisnu Kencana Cultural Park,5,5,5,5,5,agreed_round1
+R0208,Blue Lagoon Beach,2,0,2,2,2,agreed_round2
+R0209,Crystal Bay Nusa Penida,2,0,2,2,2,agreed_round2
+R0210,Ulun Danu Beratan Temple,5,5,5,5,5,agreed_round1
+R0211,Ubud Art Market,4,4,4,4,4,agreed_round1
+R0212,Balangan Beach,0,0,0,0,0,agreed_round1
+R0213,Tanah Lot,2,4,2,2,2,agreed_round2
+R0214,Bali Zoo,2,5,2,5,2,third_adjudicator
+R0215,Crystal Bay Nusa Penida,2,2,2,2,2,agreed_round1
+R0216,Besakih Great Temple,4,5,4,4,4,agreed_round2
+R0217,Taman Ayun Temple,5,5,5,5,5,agreed_round1
+R0218,Crystal Bay Nusa Penida,2,2,2,2,2,agreed_round1
+R0219,Ubud Art Market,4,4,4,4,4,agreed_round1
+R0220,Bajra Sandhi Monument,3,3,3,3,3,agreed_round1
+R0221,Penida Island,2,0,0,0,0,agreed_round2
+R0222,Mt Batur,3,3,3,3,3,agreed_round1
+R0223,Mt Batur,3,3,3,3,3,agreed_round1
+R0224,Crystal Bay Nusa Penida,0,0,0,0,0,agreed_round1
+R0225,Bali Zoo,2,2,2,2,2,agreed_round1
+R0226,Tanah Lot,2,0,2,2,2,agreed_round2
+R0227,Atlas Beach Club,0,0,0,0,0,agreed_round1
+R0228,Ubud Art Market,0,0,0,0,0,agreed_round1
+R0229,Kapten I Wayan Dipta Stadium,2,5,2,5,2,third_adjudicator
+R0230,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0231,Ceking Rice Terrace,4,4,4,4,4,agreed_round1
+R0232,Balangan Beach,2,0,2,2,2,agreed_round2
+R0233,Padang Padang Beach,2,3,2,2,2,agreed_round2
+R0234,Kuta Beach,0,0,0,0,0,agreed_round1
+R0235,Garuda Wisnu Kencana Cultural Park,0,0,0,0,0,agreed_round1
+R0236,Pandawa Beach,4,4,4,4,4,agreed_round1
+R0237,Penglipuran Village,2,4,2,4,2,third_adjudicator
+R0238,Balangan Beach,0,0,0,0,0,agreed_round1
+R0239,Jimbaran Beach,0,0,0,0,0,agreed_round1
+R0240,Balangan Beach,2,2,2,2,2,agreed_round1
+R0241,Tegenungan Waterfall,0,0,0,0,0,agreed_round1
+R0242,Blue Lagoon Beach,2,0,2,0,2,third_adjudicator
+R0243,FINNS Beach Club,2,0,2,0,2,third_adjudicator
+R0244,Bali Zoo,0,0,0,0,0,agreed_round1
+R0245,Pandawa Beach,2,5,2,5,5,third_adjudicator
+R0246,Tegenungan Waterfall,4,4,4,4,4,agreed_round1
+R0247,Pandawa Beach,2,0,2,2,2,agreed_round2
+R0248,Sanur,2,0,2,2,2,agreed_round2
+R0249,Ulun Danu Beratan Temple,0,0,0,0,0,agreed_round1
+R0250,Jimbaran Beach,2,0,2,2,2,agreed_round2
+R0251,Taman Ayun Temple,5,5,5,5,5,agreed_round1
+R0252,Tanah Lot,4,4,4,4,4,agreed_round1
+R0253,Sanur,2,0,0,0,0,agreed_round2
+R0254,Bukit Campuhan,5,0,5,0,5,third_adjudicator
+R0255,Tirta Gangga,2,2,2,2,2,agreed_round1
+R0256,Tirta Gangga,2,0,2,2,2,agreed_round2
+R0257,Git Git Waterfall,2,3,2,2,2,agreed_round2
+R0258,Besakih Great Temple,2,4,2,4,2,third_adjudicator
+R0259,Blue Lagoon Beach,3,0,3,0,2,third_adjudicator
+R0260,Ulun Danu Beratan Temple,2,5,5,5,5,agreed_round2
+R0261,Tanah Lot,2,0,2,2,2,agreed_round2
+R0262,Crystal Bay Nusa Penida,2,0,2,0,2,third_adjudicator
+R0263,Ulun Danu Beratan Temple,2,2,2,2,2,agreed_round1
+R0264,Ubud Art Market,0,0,0,0,0,agreed_round1
+R0265,Besakih Great Temple,5,5,5,5,5,agreed_round1
+R0266,Bali Zoo,2,0,2,0,2,third_adjudicator
+R0267,Nusa Dua Beach,0,0,0,0,0,agreed_round1
+R0268,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0269,Kuta Beach,2,2,2,2,2,agreed_round1
+R0270,Git Git Waterfall,0,0,0,0,0,agreed_round1
+R0271,Pandawa Beach,2,2,2,2,2,agreed_round1
+R0272,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0273,Sanur,0,0,0,0,0,agreed_round1
+R0274,Kapten I Wayan Dipta Stadium,2,0,2,0,2,third_adjudicator
+R0275,Crystal Bay Nusa Penida,0,0,0,0,0,agreed_round1
+R0276,Jimbaran Beach,2,0,0,0,0,agreed_round2
+R0277,Ubud Art Market,0,0,0,0,0,agreed_round1
+R0278,Bukit Campuhan,1,1,1,1,1,agreed_round1
+R0279,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0280,Tirta Gangga,2,0,2,0,2,third_adjudicator
+R0281,Padang Padang Beach,3,0,3,3,3,agreed_round2
+R0282,Garuda Wisnu Kencana Cultural Park,0,0,0,0,0,agreed_round1
+R0283,Tanah Lot,5,5,5,5,5,agreed_round1
+R0284,Pandawa Beach,2,0,2,2,2,agreed_round2
+R0285,Angel's Billabong,2,2,2,2,2,agreed_round1
+R0286,Crystal Bay Nusa Penida,2,0,2,2,2,agreed_round2
+R0287,Sanur,0,0,0,0,0,agreed_round1
+R0288,Tegenungan Waterfall,2,3,2,3,2,third_adjudicator
+R0289,Bajra Sandhi Monument,5,5,5,5,5,agreed_round1
+R0290,Tanah Lot,5,5,5,5,5,agreed_round1
+R0291,Garuda Wisnu Kencana Cultural Park,3,0,2,0,2,third_adjudicator
+R0292,Sacred Monkey Forest Sanctuary,2,3,2,3,2,third_adjudicator
+R0293,Bali Zoo,2,0,2,0,2,third_adjudicator
+R0294,Pandawa Beach,0,0,0,0,0,agreed_round1
+R0295,Besakih Great Temple,5,5,5,5,5,agreed_round1
+R0296,Mt Batur,4,4,4,4,4,agreed_round1
+R0297,Angel's Billabong,2,2,2,2,2,agreed_round1
+R0298,Besakih Great Temple,4,4,4,4,4,agreed_round1
+R0299,Bali Zoo,2,0,2,0,2,third_adjudicator
+R0300,Garuda Wisnu Kencana Cultural Park,0,0,0,0,0,agreed_round1
+R0301,Besakih Great Temple,5,5,5,5,5,agreed_round1
+R0302,Jimbaran Beach,2,4,2,2,2,agreed_round2
+R0303,Uluwatu Temple,2,4,2,4,2,third_adjudicator
+R0304,Jimbaran Beach,0,0,0,0,0,agreed_round1
+R0305,Ceking Rice Terrace,2,0,2,0,2,third_adjudicator
+R0306,Bukit Campuhan,2,2,2,2,2,agreed_round1
+R0307,Sacred Monkey Forest Sanctuary,2,3,2,3,2,third_adjudicator
+R0308,Penida Island,2,2,2,2,2,agreed_round1
+R0309,Atlas Beach Club,1,1,1,1,1,agreed_round1
+R0310,Uluwatu Temple,0,0,0,0,0,agreed_round1
+R0311,Seminyak Beach,0,0,0,0,0,agreed_round1
+R0312,Nusa Dua Beach,4,4,4,4,4,agreed_round1
+R0313,Kuta Beach,2,2,2,2,2,agreed_round1
+R0314,Seminyak Beach,2,2,2,2,2,agreed_round1
+R0315,Tirta Gangga,4,0,4,0,4,third_adjudicator
+R0316,Nusa Dua Beach,3,0,3,3,3,agreed_round2
+R0317,Uluwatu Temple,5,5,5,5,5,agreed_round1
+R0318,Seminyak Beach,2,0,2,2,2,agreed_round2
+R0319,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0320,Atlas Beach Club,1,5,1,1,1,agreed_round2
+R0321,FINNS Beach Club,1,0,1,1,1,agreed_round2
+R0322,FINNS Beach Club,0,0,0,0,0,agreed_round1
+R0323,Garuda Wisnu Kencana Cultural Park,3,0,0,0,0,agreed_round2
+R0324,Besakih Great Temple,4,5,4,4,4,agreed_round2
+R0325,Tanah Lot,0,0,0,0,0,agreed_round1
+R0326,Penida Island,3,3,3,3,3,agreed_round1
+R0327,Blue Lagoon Beach,3,0,3,3,3,agreed_round2
+R0328,Sanur,0,0,0,0,0,agreed_round1
+R0329,Bali Zoo,2,0,2,0,2,third_adjudicator
+R0330,Balangan Beach,2,2,2,2,2,agreed_round1
+R0331,Jimbaran Beach,2,2,2,2,2,agreed_round1
+R0332,Blue Lagoon Beach,0,0,0,0,0,agreed_round1
+R0333,Sanur,2,0,0,0,0,agreed_round2
+R0334,Sacred Monkey Forest Sanctuary,2,3,2,3,2,third_adjudicator
+R0335,Uluwatu Temple,3,4,3,4,3,third_adjudicator
+R0336,Taman Ayun Temple,0,0,0,0,0,agreed_round1
+R0337,Tirta Gangga,0,0,0,0,0,agreed_round1
+R0338,Pandawa Beach,2,0,2,2,2,agreed_round2
+R0339,Balangan Beach,2,3,2,2,2,agreed_round2
+R0340,Atlas Beach Club,2,0,1,0,1,third_adjudicator
+R0341,Tegenungan Waterfall,2,3,2,3,2,third_adjudicator
+R0342,Taman Ayun Temple,0,0,0,0,0,agreed_round1
+R0343,Uluwatu Temple,2,5,2,5,2,third_adjudicator
+R0344,Bukit Campuhan,3,0,3,0,2,third_adjudicator
+R0345,Tirta Gangga,2,0,2,2,2,agreed_round2
+R0346,Padang Padang Beach,2,0,2,0,0,third_adjudicator
+R0347,Seminyak Beach,0,0,0,0,0,agreed_round1
+R0348,Crystal Bay Nusa Penida,3,0,3,3,3,agreed_round2
+R0349,Penida Island,0,0,0,0,0,agreed_round1
+R0350,Ubud Art Market,0,0,0,0,0,agreed_round1
+R0351,Tanah Lot,2,0,2,2,2,agreed_round2
+R0352,Git Git Waterfall,4,4,4,4,4,agreed_round1
+R0353,Uluwatu Temple,5,3,5,3,5,third_adjudicator
+R0354,Taman Ayun Temple,2,0,2,0,2,third_adjudicator
+R0355,Besakih Great Temple,2,0,0,0,0,agreed_round2
+R0356,Balangan Beach,2,2,2,2,2,agreed_round1
+R0357,Bajra Sandhi Monument,5,5,5,5,5,agreed_round1
+R0358,Mt Batur,2,0,2,2,2,agreed_round2
+R0359,Ceking Rice Terrace,2,0,2,0,0,third_adjudicator
+R0360,Angel's Billabong,0,0,0,0,0,agreed_round1
+R0361,Ceking Rice Terrace,2,0,2,2,2,agreed_round2
+R0362,Taman Ayun Temple,0,0,0,0,0,agreed_round1
+R0363,Bukit Campuhan,3,3,3,3,3,agreed_round1
+R0364,Penglipuran Village,5,2,5,2,5,third_adjudicator
+R0365,Mt Batur,4,0,4,0,4,third_adjudicator
+R0366,Angel's Billabong,2,5,2,2,2,agreed_round2
+R0367,Tanah Lot,5,5,5,5,5,agreed_round1
+R0368,Crystal Bay Nusa Penida,0,0,0,0,0,agreed_round1
+R0369,Git Git Waterfall,2,0,2,0,2,third_adjudicator
+R0370,Garuda Wisnu Kencana Cultural Park,5,4,4,4,4,agreed_round2
+R0371,Bukit Campuhan,2,0,2,0,2,third_adjudicator
+R0372,Bukit Campuhan,3,3,3,3,3,agreed_round1
+R0373,Jimbaran Beach,0,0,0,0,0,agreed_round1
+R0374,Angel's Billabong,0,0,0,0,0,agreed_round1
+R0375,Uluwatu Temple,5,5,5,5,5,agreed_round1
+R0376,Mt Batur,3,3,3,3,3,agreed_round1
+R0377,Nusa Dua Beach,2,0,2,2,2,agreed_round2
+R0378,Kapten I Wayan Dipta Stadium,2,0,2,0,0,third_adjudicator
+R0379,Tanah Lot,5,5,5,5,5,agreed_round1
+R0380,Tegenungan Waterfall,2,3,2,3,2,third_adjudicator
+R0381,Angel's Billabong,0,0,0,0,0,agreed_round1
+R0382,Ceking Rice Terrace,2,0,1,0,1,third_adjudicator
+R0383,Atlas Beach Club,0,0,0,0,0,agreed_round1
+R0384,Kapten I Wayan Dipta Stadium,2,0,2,0,2,third_adjudicator
+R0385,Nusa Dua Beach,2,3,2,3,2,third_adjudicator
+R0386,Balangan Beach,2,3,2,3,2,third_adjudicator
+R0387,Sanur,0,0,0,0,0,agreed_round1
+R0388,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0389,Sacred Monkey Forest Sanctuary,2,0,1,0,1,third_adjudicator
+R0390,Ceking Rice Terrace,3,2,2,2,2,agreed_round2
+R0391,Bajra Sandhi Monument,5,0,5,0,5,third_adjudicator
+R0392,Garuda Wisnu Kencana Cultural Park,0,0,0,0,0,agreed_round1
+R0393,Kuta Beach,2,5,0,5,2,third_adjudicator
+R0394,Angel's Billabong,2,2,2,2,2,agreed_round1
+R0395,Padang Padang Beach,3,3,3,3,3,agreed_round1
+R0396,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0397,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0398,Sanur,2,0,2,2,2,agreed_round2
+R0399,Seminyak Beach,2,2,2,2,2,agreed_round1
+R0400,Penglipuran Village,0,5,0,5,0,third_adjudicator
+R0401,Besakih Great Temple,5,5,5,5,5,agreed_round1
+R0402,Uluwatu Temple,2,5,2,5,5,third_adjudicator
+R0403,Pandawa Beach,3,0,3,0,3,third_adjudicator
+R0404,Bajra Sandhi Monument,5,5,5,5,5,agreed_round1
+R0405,Penglipuran Village,0,5,0,5,0,third_adjudicator
+R0406,Sacred Monkey Forest Sanctuary,0,3,0,3,0,third_adjudicator
+R0407,Uluwatu Temple,2,0,2,0,2,third_adjudicator
+R0408,Blue Lagoon Beach,3,0,3,3,3,agreed_round2
+R0409,Bajra Sandhi Monument,2,0,2,0,0,third_adjudicator
+R0410,Ceking Rice Terrace,2,3,2,3,2,third_adjudicator
+R0411,Tegenungan Waterfall,2,0,2,0,2,third_adjudicator
+R0412,Blue Lagoon Beach,2,3,2,3,2,third_adjudicator
+R0413,Mt Batur,0,0,0,0,0,agreed_round1
+R0414,Bali Zoo,4,4,4,4,4,agreed_round1
+R0415,Tirta Gangga,2,0,2,0,2,third_adjudicator
+R0416,Penida Island,4,4,4,4,4,agreed_round1
+R0417,Ubud Art Market,4,4,4,4,4,agreed_round1
+R0418,Sacred Monkey Forest Sanctuary,2,5,2,5,2,third_adjudicator
+R0419,Balangan Beach,3,0,3,3,3,agreed_round2
+R0420,Padang Padang Beach,2,2,2,2,2,agreed_round1
+R0421,Tirta Empul Temple,5,5,5,5,5,agreed_round1
+R0422,Tirta Empul Temple,0,0,0,0,0,agreed_round1
+R0423,Tirta Gangga,0,0,0,0,0,agreed_round1
+R0424,Git Git Waterfall,0,0,0,0,0,agreed_round1
+R0425,Mt Batur,3,3,3,3,3,agreed_round1
+R0426,FINNS Beach Club,2,0,2,0,2,third_adjudicator
+R0427,Seminyak Beach,3,3,3,3,3,agreed_round1
+R0428,Garuda Wisnu Kencana Cultural Park,5,0,5,0,5,third_adjudicator
+R0429,Sanur,2,2,2,2,2,agreed_round1
+R0430,Penglipuran Village,0,0,0,0,0,agreed_round1
+R0431,Seminyak Beach,2,2,2,2,2,agreed_round1
+R0432,Tegenungan Waterfall,2,3,2,3,2,third_adjudicator
+R0433,Blue Lagoon Beach,3,0,3,3,3,agreed_round2
+R0434,Ulun Danu Beratan Temple,0,0,0,0,0,agreed_round1
+R0435,Jimbaran Beach,3,0,3,0,3,third_adjudicator
+R0436,Nusa Dua Beach,2,5,2,5,2,third_adjudicator
+R0437,Ulun Danu Beratan Temple,0,0,0,0,0,agreed_round1
+R0438,Penglipuran Village,5,0,5,0,5,third_adjudicator
+R0439,Ceking Rice Terrace,3,0,3,0,3,third_adjudicator
+R0440,Bali Zoo,0,0,0,0,0,agreed_round1
+R0441,Git Git Waterfall,0,0,0,0,0,agreed_round1
+R0442,Penglipuran Village,2,2,2,2,2,agreed_round1
+R0443,Kapten I Wayan Dipta Stadium,2,0,2,2,2,agreed_round2
+R0444,Padang Padang Beach,3,3,3,3,3,agreed_round1
+R0445,Git Git Waterfall,4,4,4,4,4,agreed_round1
+R0446,Bali Zoo,2,2,2,2,2,agreed_round1
+R0447,Tirta Empul Temple,5,5,5,5,5,agreed_round1
+R0448,Ulun Danu Beratan Temple,2,2,2,2,2,agreed_round1
+R0449,Bali Zoo,2,0,2,0,2,third_adjudicator
+R0450,Sanur,0,0,0,0,0,agreed_round1
+R0451,Uluwatu Temple,4,4,4,4,4,agreed_round1
+R0452,FINNS Beach Club,0,0,0,0,0,agreed_round1
+R0453,Besakih Great Temple,2,0,2,0,2,third_adjudicator
+R0454,Padang Padang Beach,2,0,2,0,2,third_adjudicator
+R0455,Seminyak Beach,2,0,2,0,2,third_adjudicator
+R0456,Bajra Sandhi Monument,5,0,5,0,5,third_adjudicator
+R0457,Tegenungan Waterfall,4,3,4,3,4,third_adjudicator
+R0458,Angel's Billabong,0,0,0,0,0,agreed_round1
+R0459,Angel's Billabong,0,0,0,0,0,agreed_round1
+R0460,Jimbaran Beach,2,2,2,2,2,agreed_round1
+R0461,Tirta Gangga,2,2,2,2,2,agreed_round1
+R0462,Penglipuran Village,2,4,2,4,4,third_adjudicator
+R0463,Blue Lagoon Beach,0,0,0,0,0,agreed_round1
+R0464,Besakih Great Temple,5,5,5,5,5,agreed_round1
+R0465,Seminyak Beach,2,2,2,2,2,agreed_round1
+R0466,Sanur,2,0,2,2,2,agreed_round2
+R0467,Bukit Campuhan,3,5,3,5,3,third_adjudicator
+R0468,Angel's Billabong,2,3,2,2,2,agreed_round2
+R0469,Git Git Waterfall,3,3,3,3,3,agreed_round1
+R0470,Garuda Wisnu Kencana Cultural Park,2,0,0,0,0,agreed_round2
+R0471,FINNS Beach Club,1,1,1,1,1,agreed_round1
+R0472,Kapten I Wayan Dipta Stadium,1,4,1,4,1,third_adjudicator
+R0473,Nusa Dua Beach,0,3,0,3,0,third_adjudicator
+R0474,Kuta Beach,2,2,2,2,2,agreed_round1
+R0475,Atlas Beach Club,2,0,2,0,2,third_adjudicator
+R0476,Crystal Bay Nusa Penida,0,0,0,0,0,agreed_round1
+R0477,FINNS Beach Club,0,0,0,0,0,agreed_round1
+R0478,Besakih Great Temple,4,5,4,4,4,agreed_round2
+R0479,FINNS Beach Club,2,0,2,0,2,third_adjudicator
+R0480,Garuda Wisnu Kencana Cultural Park,4,4,4,4,4,agreed_round1
+R0481,Bukit Campuhan,3,0,3,0,3,third_adjudicator
+R0482,Tanah Lot,0,0,0,0,0,agreed_round1
+R0483,Ulun Danu Beratan Temple,2,5,2,5,0,third_adjudicator
+R0484,Ceking Rice Terrace,2,0,2,0,2,third_adjudicator
+R0485,Garuda Wisnu Kencana Cultural Park,2,0,2,2,2,agreed_round2
+R0486,Penglipuran Village,2,0,2,0,2,third_adjudicator
+R0487,Crystal Bay Nusa Penida,2,4,2,2,2,agreed_round2
+R0488,Tegenungan Waterfall,2,0,2,0,2,third_adjudicator
+R0489,Bukit Campuhan,3,5,3,5,3,third_adjudicator
+R0490,Kuta Beach,0,0,0,0,0,agreed_round1
+R0491,Padang Padang Beach,0,0,0,0,0,agreed_round1
+R0492,Taman Ayun Temple,5,5,5,5,5,agreed_round1
+R0493,Sacred Monkey Forest Sanctuary,2,3,2,3,2,third_adjudicator
+R0494,Sacred Monkey Forest Sanctuary,2,3,2,3,2,third_adjudicator
+R0495,Bukit Campuhan,3,3,3,3,3,agreed_round1
+R0496,Bajra Sandhi Monument,5,4,5,4,4,third_adjudicator
+R0497,Seminyak Beach,3,0,3,3,3,agreed_round2
+R0498,Taman Ayun Temple,2,4,2,4,2,third_adjudicator
+R0499,Garuda Wisnu Kencana Cultural Park,4,4,4,4,4,agreed_round1
+R0500,Tegenungan Waterfall,3,4,3,4,3,third_adjudicator
+R0501,Bajra Sandhi Monument,0,0,0,0,0,agreed_round1
+R0502,Balangan Beach,0,0,0,0,0,agreed_round1
+R0503,Ulun Danu Beratan Temple,4,4,4,4,4,agreed_round1
+R0504,Tanah Lot,0,0,0,0,0,agreed_round1
+R0505,Taman Ayun Temple,0,0,0,0,0,agreed_round1
+R0506,Mt Batur,3,4,3,4,3,third_adjudicator
+R0507,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0508,Mt Batur,3,3,3,3,3,agreed_round1
+R0509,Atlas Beach Club,0,0,0,0,0,agreed_round1
+R0510,Nusa Dua Beach,2,4,2,4,2,third_adjudicator
+R0511,Sacred Monkey Forest Sanctuary,0,3,0,3,0,third_adjudicator
+R0512,Tirta Empul Temple,5,5,5,5,5,agreed_round1
+R0513,Nusa Dua Beach,2,3,2,3,2,third_adjudicator
+R0514,Kuta Beach,0,0,0,0,0,agreed_round1
+R0515,Penida Island,0,0,0,0,0,agreed_round1
+R0516,Besakih Great Temple,5,5,5,5,5,agreed_round1
+R0517,Ubud Art Market,4,4,4,4,4,agreed_round1
+R0518,Bajra Sandhi Monument,2,0,2,0,2,third_adjudicator
+R0519,Garuda Wisnu Kencana Cultural Park,4,4,4,4,4,agreed_round1
+R0520,Atlas Beach Club,0,0,0,0,0,agreed_round1
+R0521,Sacred Monkey Forest Sanctuary,2,3,2,3,2,third_adjudicator
+R0522,Bali Zoo,2,0,2,0,2,third_adjudicator
+R0523,Bukit Campuhan,3,2,2,2,2,agreed_round2
+R0524,Sanur,2,0,2,2,2,agreed_round2
+R0525,Kuta Beach,2,5,2,5,2,third_adjudicator
+R0526,Blue Lagoon Beach,2,0,2,2,2,agreed_round2
+R0527,Atlas Beach Club,2,0,1,0,1,third_adjudicator
+R0528,Tirta Gangga,0,0,0,0,0,agreed_round1
+R0529,Atlas Beach Club,0,0,0,0,0,agreed_round1
+R0530,Ubud Art Market,5,0,5,0,5,third_adjudicator
+R0531,Git Git Waterfall,2,0,2,2,2,agreed_round2
+R0532,Tanah Lot,5,5,5,5,5,agreed_round1
+R0533,Pandawa Beach,2,0,2,2,2,agreed_round2
+R0534,Git Git Waterfall,4,4,4,4,4,agreed_round1
+R0535,Besakih Great Temple,0,4,0,4,0,third_adjudicator
+R0536,Ceking Rice Terrace,4,4,4,4,4,agreed_round1
+R0537,Uluwatu Temple,2,3,2,3,2,third_adjudicator
+R0538,Nusa Dua Beach,0,0,0,0,0,agreed_round1
+R0539,Seminyak Beach,2,0,2,0,2,third_adjudicator
+R0540,Tirta Gangga,4,4,4,4,4,agreed_round1
+R0541,Kuta Beach,3,3,3,3,3,agreed_round1
+R0542,Pandawa Beach,4,5,4,4,4,agreed_round2
+R0543,Penglipuran Village,0,0,0,0,0,agreed_round1
+R0544,Sacred Monkey Forest Sanctuary,2,3,2,2,2,agreed_round2
+R0545,Kapten I Wayan Dipta Stadium,0,0,0,0,0,agreed_round1
+R0546,Bali Zoo,2,0,2,0,2,third_adjudicator
+R0547,FINNS Beach Club,0,0,0,0,0,agreed_round1
+R0548,Tanah Lot,2,5,2,5,2,third_adjudicator
+R0549,Bukit Campuhan,3,0,3,0,3,third_adjudicator
+R0550,Tegenungan Waterfall,3,3,3,3,3,agreed_round1
+R0551,Ulun Danu Beratan Temple,0,0,0,0,0,agreed_round1
+R0552,Taman Ayun Temple,0,0,0,0,0,agreed_round1
+R0553,Garuda Wisnu Kencana Cultural Park,5,5,5,5,5,agreed_round1
+R0554,Nusa Dua Beach,2,2,2,2,2,agreed_round1
+R0555,Mt Batur,3,3,3,3,3,agreed_round1
+R0556,FINNS Beach Club,0,0,0,0,0,agreed_round1
+R0557,Blue Lagoon Beach,2,0,2,2,2,agreed_round2
+R0558,FINNS Beach Club,0,0,0,0,0,agreed_round1
+R0559,Ceking Rice Terrace,0,0,0,0,0,agreed_round1
+R0560,Padang Padang Beach,2,0,2,2,2,agreed_round2
+R0561,Bajra Sandhi Monument,2,2,2,2,2,agreed_round1
+R0562,Seminyak Beach,2,0,2,0,2,third_adjudicator
+R0563,Angel's Billabong,2,0,2,0,2,third_adjudicator
+R0564,Jimbaran Beach,2,4,2,4,2,third_adjudicator
+R0565,Bali Zoo,2,0,0,0,0,agreed_round2
+R0566,Tirta Gangga,2,0,2,0,2,third_adjudicator
+R0567,Penida Island,0,0,0,0,0,agreed_round1
+R0568,Seminyak Beach,2,0,2,2,2,agreed_round2
+R0569,Balangan Beach,2,4,2,2,2,agreed_round2
+R0570,Crystal Bay Nusa Penida,3,0,3,3,3,agreed_round2
+R0571,Ulun Danu Beratan Temple,5,5,5,5,5,agreed_round1
+R0572,Penglipuran Village,5,5,5,5,5,agreed_round1
+R0573,Pandawa Beach,2,0,2,2,2,agreed_round2
+R0574,Ubud Art Market,0,0,0,0,0,agreed_round1
+R0575,Sacred Monkey Forest Sanctuary,2,5,2,5,5,third_adjudicator
+R0576,FINNS Beach Club,0,0,0,0,0,agreed_round1
+R0577,Pandawa Beach,0,0,0,0,0,agreed_round1
+R0578,Garuda Wisnu Kencana Cultural Park,4,4,4,4,4,agreed_round1
+R0579,Tegenungan Waterfall,2,4,2,2,2,agreed_round2
+R0580,Ubud Art Market,4,4,4,4,4,agreed_round1
+R0581,FINNS Beach Club,0,0,0,0,0,agreed_round1
+R0582,Crystal Bay Nusa Penida,2,2,2,2,2,agreed_round1
